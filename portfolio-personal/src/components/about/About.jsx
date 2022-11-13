@@ -56,7 +56,11 @@ const About = () => {
 
           </article>
           
-          <p>
+        </div>
+
+        <div>
+
+        <p>
           Estoy diseñando las dos Website de mi empresa actual, estas estás estan enfocadas en el ecosistema E-Commerce en Wordpress con pesonalizaciones con HTML y CSS, mi objetivo a corto plazo es actualizar estas páginas con las actuales tecnologías adquiridas como <b>Desarrollador Web Full Stack</b>, hago uso del diseño digital para todos los gráficos, fotografías, vídeos, fotografia de producto, animaciones que sean rerqueridas para las Website, así también todo el diseño gráfico como publicidad digital e impresa, diseño corporativo, diseño editorial, sghippin mark, packaging entre otros. El combinar todas las tecnologías me han permitido mejores resultados.
           </p>
 
