@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.faca29bf.css",
+    "main.js": "/static/js/main.9d4aa349.js",
+    "static/media/me.png": "/static/media/me.3ccdfa32123f99c9c2b9.png",
+    "static/media/cv.pdf": "/static/media/cv.3386bddd70d57d0a4312.pdf",
+    "static/media/wordpress2.jpg": "/static/media/wordpress2.988b18ead0257248812f.jpg",
+    "static/media/wordpress1.jpg": "/static/media/wordpress1.b13cfa888736d7a8c9d1.jpg",
+    "static/media/proyecto4.jpg": "/static/media/proyecto4.d49ce04fa4f4001b6dba.jpg",
+    "static/media/proyecto1.jpg": "/static/media/proyecto1.0e1e2686c56555a01d36.jpg",
+    "static/media/proyecto2.jpg": "/static/media/proyecto2.dff3166399789697cc6e.jpg",
+    "static/media/proyecto3.jpg": "/static/media/proyecto3.a8c918ad2daa422ec389.jpg",
+    "index.html": "/index.html",
+    "main.faca29bf.css.map": "/static/css/main.faca29bf.css.map",
+    "main.9d4aa349.js.map": "/static/js/main.9d4aa349.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faca29bf.css",
+    "static/js/main.9d4aa349.js"
+  ]
+}
